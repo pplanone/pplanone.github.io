@@ -1,8 +1,8 @@
 User-Agent: *
 Disallow: 
 
+Sitemap: https://pplanone.github.io/sitemap.xml
 Sitemap: https://pplanone.github.io/sitemap-01.xml
+Sitemap: https://pplanone.github.io/sitemap.html
 Sitemap: https://pplanone.github.io/sitemap-01.html
-Sitemap: https://pplanone.github.io/sitemap.xml
-Sitemap: https://pplanone.github.io/sitemap.xml
-Sitemap: https://pplanone.github.io/sitemap.xml
+Sitemap: https://pplanone.github.io/sitemap-02.html
